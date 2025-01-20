@@ -1,9 +1,11 @@
 ini adalah resolusi 11 pplg 3 untuk belajar git
-
+-Intro Git dan github
 -konsisten belajar git dan mengerjakan tugas git dan github
--praktik github
+-
 -praktik git
 -balajar Basis data
 -API
+-register themoviedb.org
+-API moviedb
 -Dokumentasi
 -Project vidio streaming
